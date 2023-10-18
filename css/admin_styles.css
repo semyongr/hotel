@@ -1,0 +1,19 @@
+/* панель входа в админку */
+
+.login_form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+}
+
+.custom-alert{
+    position: fixed;
+    top: 25px;
+    right: 25px;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}

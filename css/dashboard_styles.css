@@ -1,0 +1,11 @@
+/* админка */
+
+.custom-alert{
+    position: fixed;
+    top: 80px;
+    right: 25px;
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: .25rem;
+}
